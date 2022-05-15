@@ -12,6 +12,7 @@ while True:
     break
   list = split(str)
 
+  #Dictionary of letters and their binary counterparts
   
   binary = {
     'a':'01100001', 
