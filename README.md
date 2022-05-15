@@ -19,10 +19,12 @@ A visual binary encryption system based on the parachute of NASA's Perseverance 
 
 1.) The image is read clockwise inside to out
 
-2.) Every ring is a seperate character
+2.) Start at the red line
 
-3.) The white spaces are 0s the black are 1s
+3.) Every ring is a seperate character
 
-4.) Run it through a binary decoder
+4.) The white spaces are 0s the black are 1s
 
-5.) Voila! One decrypted circle picture thing!
+5.) Run it through a binary decoder
+
+6.) Voila! One decrypted circle picture thing!
